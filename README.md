@@ -18,3 +18,6 @@ Ethical filtered jokes with 2-scale score
 ## CleanComedy Russian Gold 
 Ethical filtered jokes with human humour 5-scale score
 1,000 instances
+
+## Source
+We also provide filtering pipe-line in Jupyter notebooks in both English and Russian folders
